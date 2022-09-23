@@ -1,4 +1,4 @@
-package com.peterchiver.azyure.function;
+package com.peterchivers.azure.function;
 
 import com.microsoft.azure.functions.*;
 import org.mockito.invocation.InvocationOnMock;
